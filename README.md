@@ -1,4 +1,4 @@
-# Automação para manipulação de planilhas 
+# Automação para manipulação de planilhas 📊
 
 Este é um projeto que desenvolvi para permitir a manipulação de planilhas Excel de forma simples, utilizando comandos de texto. A aplicação foi criada com **Python** e a biblioteca **Tkinter**, e permite que o usuário execute ações em um DataFrame carregado a partir de um arquivo Excel.
 
